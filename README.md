@@ -6,3 +6,10 @@ Es un trabajo de html que contiene
 -productos.html
 -style.css
 -images
+
+Descripcion del web
+Esto es una pagina hecha para un trabajo personal, que es una pagina web que hace diseños de webs profesionales
+
+Forma de uso
+Puedes descargar todas las carpetas y abrirlo con VS Studio
+
