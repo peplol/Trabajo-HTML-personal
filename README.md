@@ -13,3 +13,8 @@ Esto es una pagina hecha para un trabajo personal, que es una pagina web que hac
 Forma de uso
 Puedes descargar todas las carpetas y abrirlo con VS Studio
 
+Link repositorio
+https://github.com/peplol/Trabajo-HTML-personal
+
+Link Web
+https://peplol.github.io/Trabajo-HTML-personal/
